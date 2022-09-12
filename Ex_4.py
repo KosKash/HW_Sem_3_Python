@@ -4,7 +4,6 @@
 # - 3 -> 11
 # - 2 -> 10
 
-
 def to_bit(num):
     list = []
     while num > 0:
